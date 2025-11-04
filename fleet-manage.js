@@ -1,11 +1,4 @@
 
-// Instructions
-// Scenario
-// You’ve been hired to help a logistics company build a system to manage its fleet of vehicles. The system should be able to:
-// 1. Create individual vehicles with properties like type, make, model, year, and mileage.
-// 2. Add a method to update the mileage of a vehicle when it is used.
-// 3. Add a method to display the details of the vehicle in a user-friendly format.
-// 4. Instantiate multiple vehicles from the class and test your methods.
 
 // Tasks
 // 1. Define the Vehicle Class:
